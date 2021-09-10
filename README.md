@@ -8,9 +8,11 @@
   
 * 3.本项目只是玩具而已，请大家支持正版PD，还是非常好用的
 
-* 4.软件界面
-![image](https://github.com/superCong/DP_START/raw/master/img/GUI.jpg)
 #### 视频演示、使用说明([DP_START](https://www.bilibili.com/video/BV1B3411i7ig?from=search&seid=12855561690544258139&spm_id_from=333.337.0.0))
+
+#### 软件界面
+
+![image](https://github.com/superCong/DP_START/raw/master/img/GUI.jpg)
 
  ## English description
 * 1.This project is used to skip the activation interface of expired parallel desktop 17.0.0 (51461) so that it can be used normally.
@@ -19,6 +21,8 @@
 
 * 3.This project is just a toy. Please support genuine PD, which is still very good to use
 
-* 4.Software interface
-![image](https://github.com/superCong/DP_START/raw/master/img/GUI.jpg)
 #### Video presentation and instructions([DP_START](https://www.bilibili.com/video/BV1B3411i7ig?from=search&seid=12855561690544258139&spm_id_from=333.337.0.0))
+
+#### Software interface
+
+![image](https://github.com/superCong/DP_START/raw/master/img/GUI.jpg)
